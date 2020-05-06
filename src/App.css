@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.FormContainer {
+  text-align: center;
+  border: 1px solid #333;
+  border-radius: 2%;
+}
+
+input {
+  display: inline-block;
+  width: 50%;
+  border: 1px solid #222;
+  margin: 5px;
+  padding: 3px;
+}
